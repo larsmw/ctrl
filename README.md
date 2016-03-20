@@ -1,2 +1,2 @@
 # ctrl
-A drupal crontrol profile to manage my "infrastructure"
+A drupal controller site to manage my "infrastructure"
